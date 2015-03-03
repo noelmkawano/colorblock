@@ -1,0 +1,34 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+.swim {
+  padding: 10px;
+  text-align: left;
+  background-color: blue;
+  color: white;
+}
+
+.bike {
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+
+.run {
+  padding: 10px;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
